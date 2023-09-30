@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpro\DoctrineHydrationModule\Hydrator\ODM\MongoDB\Strategy;
+namespace Lrphpt\DoctrineHydrationModule\Hydrator\ODM\MongoDB\Strategy;
 
 /**
  * Class PersistentCollection.
